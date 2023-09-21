@@ -1,0 +1,6 @@
+{
+    "files.associations": {
+        "mcal_timer.h": "c",
+        "navigate.h": "c"
+    }
+}
