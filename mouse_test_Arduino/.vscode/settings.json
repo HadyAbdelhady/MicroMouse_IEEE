@@ -1,9 +1,0 @@
-{
-    "files.associations": {
-        "g_init.h": "c",
-        "move.h": "c",
-        "navigate.h": "c",
-        "maze_run.h": "c",
-        "api.h": "c"
-    }
-}
