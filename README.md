@@ -14,7 +14,7 @@ The drivers we meticulously implemented include:
 
 - HAL (Hardware Abstraction Layer):
   - Ultrasonic sensor integration
-  - MPU-5060 sensor (although it was ultimately unused)
+  - MPU-6050 sensor (although it was ultimately unused)
 
 For our maze-solving algorithm, we crafted a Floodfill algorithm from the ground up. However, we chose to implement it using matrix structures instead of a queue. To enhance our robot's navigation capabilities within the maze, we introduced a tracking system.
 
